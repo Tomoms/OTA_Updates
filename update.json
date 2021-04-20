@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1617872233,
-      "filename": "lineage-18.1-20210408-UNOFFICIAL-Tom-bacon-signed.zip",
-      "id": "557339852ca1b71fb4aaa5c00c7c3ba1",
+      "datetime": 1618863400,
+      "filename": "lineage-18.1-20210419-UNOFFICIAL-Tom-bacon-signed.zip",
+      "id": "ea3ac3f89cce26a6940cbcd6eafe09a3",
       "romtype": "UNOFFICIAL",
-      "size": 467594729,
-      "url": "https://cfhcable.dl.sourceforge.net/project/lineageos-for-bacon/lineage-18.1/lineage-18.1-20210408-UNOFFICIAL-Tom-bacon-signed.zip",
+      "size": 507739926,
+      "url": "https://master.dl.sourceforge.net/project/lineageos-for-bacon/lineage-18.1/lineage-18.1-20210419-UNOFFICIAL-Tom-bacon-signed.zip",
       "version": "18.1"
     }
   ]
