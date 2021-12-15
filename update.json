@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1636127079,
-      "filename": "lineage-18.1-20211105-UNOFFICIAL-Tom-mata-signed.zip",
-      "id": "35cb5373c179c629aa0c95bdad985f0b",
+      "datetime": 1639569761,
+      "filename": "lineage-18.1-20211215-UNOFFICIAL-Tom-mata-signed.zip",
+      "id": "80e8292a894e6323f86dc58d755c2aa0",
       "romtype": "UNOFFICIAL",
-      "size": 760877024,
-      "url": "https://netix.dl.sourceforge.net/project/lineageos-for-mata/lineage-18.1/lineage-18.1-20211105-UNOFFICIAL-Tom-mata-signed.zip",
+      "size": 754337330,
+      "url": "https://master.dl.sourceforge.net/project/lineageos-for-mata/lineage-18.1/lineage-18.1-20211215-UNOFFICIAL-Tom-mata-signed.zip?viasf=1",
       "version": "18.1"
     }
   ]
