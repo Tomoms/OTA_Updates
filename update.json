@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1690041082,
-      "filename": "lineage-18.1-20230722-UNOFFICIAL-Tom-bacon-signed.zip",
-      "id": "13778759652dd81da1e15a401b7a27e7",
+      "datetime": 1694798714,
+      "filename": "lineage-18.1-20230915-UNOFFICIAL-Tom-bacon-signed.zip",
+      "id": "8bf996d830993fb13808bc4025190ef6",
       "romtype": "UNOFFICIAL",
-      "size": 523818672,
-      "url": "https://github.com/Tomoms/bacon_releases/releases/download/2023-07-22/lineage-18.1-20230722-UNOFFICIAL-Tom-bacon-signed.zip",
+      "size": 525180327,
+      "url": "https://github.com/Tomoms/bacon_releases/releases/download/2023-09-15/lineage-18.1-20230915-UNOFFICIAL-Tom-bacon-signed.zip",
       "version": "18.1"
     }
   ]
