@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1695631004,
-      "filename": "lineage-20.0-20230925-UNOFFICIAL-Tom-mata-signed.zip",
-      "id": "711586ef94007631a9b24ae5fc195552",
+      "datetime": 1695745822,
+      "filename": "lineage-20.0-20230926-UNOFFICIAL-Tom-mata-signed.zip",
+      "id": "d1817660ef2582e3c5a8deaa4f87ed6d",
       "romtype": "UNOFFICIAL",
-      "size": 827270854,
-      "url": "https://github.com/Tomoms/mata_betas/releases/download/2023-09-25/lineage-20.0-20230925-UNOFFICIAL-Tom-mata-signed.zip",
+      "size": 827357589,
+      "url": "https://github.com/Tomoms/mata_betas/releases/download/2023-09-26/lineage-20.0-20230926-UNOFFICIAL-Tom-mata-signed.zip",
       "version": "20.0"
     }
   ]
