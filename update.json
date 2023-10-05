@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1695972854,
-      "filename": "lineage-20.0-20230929-UNOFFICIAL-Tom-rhode-signed.zip",
-      "id": "4a06ff1f52dafcdaa5eb39edbff0d8a6",
+      "datetime": 1696496717,
+      "filename": "lineage-20.0-20231005-UNOFFICIAL-Tom-rhode-signed.zip",
+      "id": "96bfe2c815199cafdb0f1c2bf06d2456",
       "romtype": "UNOFFICIAL",
-      "size": 909259134,
-      "url": "https://github.com/Tomoms/rhode_betas/releases/download/2023-09-29/lineage-20.0-20230929-UNOFFICIAL-Tom-rhode-signed.zip",
+      "size": 910626634,
+      "url": "https://github.com/Tomoms/rhode_betas/releases/download/2023-10-05/lineage-20.0-20231005-UNOFFICIAL-Tom-rhode-signed.zip",
       "version": "20.0"
     }
   ]
